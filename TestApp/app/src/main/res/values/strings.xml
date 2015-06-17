@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestApp</string>
+
+
+    <string name="welcome">Welcome to BotanicExplorer, the best plant identification app!\nPlease follow the following steps:\n\n
+        1.Take a leaf of the plant and place in on a blank surface and take a photo.\n\n 2.Upload the photo to our server.\n\n 3.Wait for result. </string>
+    <string name="start_button">Start</string>
+    <string name="exit_button">Exit</string>
+    <string name="take_pic_button">Take Picture</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_take_photo">TakePhotoActivity</string>
+    <string name="title_activity_upload">UploadActivity</string>
+    <string name="title_activity_camera">CameraActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>
